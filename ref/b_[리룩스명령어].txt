@@ -184,3 +184,4 @@ nohup python bot_v2.py > bot.log 2>&1 & disown
 scp: 
 scp -P 222 ./chatbot/* pkteam@mydb.iptime.org:/home/pkteam/data/chatbot_kgy/
 		하위폴더									임시파일
+==================================================
